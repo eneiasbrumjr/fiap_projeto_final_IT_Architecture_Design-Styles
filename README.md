@@ -82,6 +82,8 @@ A **Auto Peças X**, uma loja tradicional com 10 anos de mercado, enfrenta desaf
 
 ## 🏗️ Arquitetura Inicial (Modelo Freeform)
 
+- **Versão Inicial** ![Versão Inicial](imagens/freeform.png)
+
 ### Componentes da Arquitetura:
 
 1. **WebApp ou WebSite**: Interface com usuário responsiva.
@@ -142,8 +144,8 @@ A **Auto Peças X**, uma loja tradicional com 10 anos de mercado, enfrenta desaf
 
 ## 📌 Arquiteturas em Camadas do C4
 
-- **Nível Contexto** ![Nível Contexto](imagens/context.png).
-- **Nível Container** ![Nível Container](imagens/container.png).
-- **Nível Componente** ![Nível Componente](imagens/component.png).
+- **Nível Contexto** ![Nível Contexto](imagens/context.png)
+- **Nível Container** ![Nível Container](imagens/container.png)
+- **Nível Componente** ![Nível Componente](imagens/component.png)
 
 ---
